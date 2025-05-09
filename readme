@@ -1,0 +1,18 @@
+This paper presents an object classification method for vision and light detection and ranging (LIDAR) fusion of autonomous vehicles in the environment. This method is based on convolutional neural network (CNN) and image upsampling theory. By creating a point cloud of LIDAR data upsampling and converting into pixel-level depth information, depth information is connected with Red Green Blue data and fed into a deep CNN. The proposed method can obtain informative feature representation for object classification in autonomous vehicle environment using the integrated vision and LIDAR data. This method is also adopted to guarantee both object classification accuracy and minimal loss. Experimental results are presented and show the effectiveness and efficiency of object classification strategies.
+
+
+use **python 3.7.0** 
+
+to run this code you need to install 
+pip install keras==2.3.1
+pip install tensorflow==1.14.0
+pip install pixellib==0.3.1
+pip install opencv-python==4.1.1.26
+pip install numpy==1.19.2
+pip install h5py==2.10.0
+pip install protobuf==3.20.0
+
+to run the code you need to type 
+***python ObjectClassification.py***
+in cmd in the file location  or simply open the run file which is in bat format!
+ 
