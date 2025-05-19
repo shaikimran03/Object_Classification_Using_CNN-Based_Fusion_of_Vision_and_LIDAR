@@ -15,4 +15,3 @@ pip install protobuf==3.20.0
 to run the code you need to type 
 ***python ObjectClassification.py***
 in cmd in the file location  or simply open the run file which is in bat format!
- 
