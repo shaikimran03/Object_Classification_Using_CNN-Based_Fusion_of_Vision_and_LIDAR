@@ -1,4 +1,8 @@
-This paper presents an object classification method for vision and light detection and ranging (LIDAR) fusion of autonomous vehicles in the environment. This method is based on convolutional neural network (CNN) and image upsampling theory. By creating a point cloud of LIDAR data upsampling and converting into pixel-level depth information, depth information is connected with Red Green Blue data and fed into a deep CNN. The proposed method can obtain informative feature representation for object classification in autonomous vehicle environment using the integrated vision and LIDAR data. This method is also adopted to guarantee both object classification accuracy and minimal loss. Experimental results are presented and show the effectiveness and efficiency of object classification strategies.
+Hello yall !
+https://github.com/shaikimran03
+This paper presents an object classification method for vision and light detection and ranging (LIDAR) fusion of autonomous vehicles in the environment. 
+This method is based on convolutional neural network (CNN) and image upsampling theory.
+By creating a point cloud of LIDAR data upsampling and converting into pixel-level depth information, depth information is connected with Red Green Blue data and fed into a deep CNN. The proposed method can obtain informative feature representation for object classification in autonomous vehicle environment using the integrated vision and LIDAR data. This method is also adopted to guarantee both object classification accuracy and minimal loss. Experimental results are presented and show the effectiveness and efficiency of object classification strategies.
 
 
 use **python 3.7.0** 
